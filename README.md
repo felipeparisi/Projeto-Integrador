@@ -26,11 +26,11 @@ Primeiro botão (usuáriso):
 
 
 Segundo botão (Cad. Clientes): 
+
 ![Captura de tela de 2023-05-16 20-16-45](https://github.com/felipeparisi/Projeto-Integrador/assets/93685167/dbeadd45-23f8-4a72-8eb6-5716f18e0548)
 
 
-
-é responsável pelo cadastro de clientes, onde ocorre a coleta de dados do mesmo possibilitando assim o contato via telefone ou email, para atualização das orden de serviço/orçamentos. 
+é responsável pelo cadastro de clientes, onde ocorre a coleta de dados do mesmo possibilitando assim o contato via telefone ou email, para atualização das orden de serviço/orçamentos. Segue exemplo da tela a baixo: 
 
 
 ![Captura de tela de 2023-05-16 20-15-14](https://github.com/felipeparisi/Projeto-Integrador/assets/93685167/fbfbd28a-bea2-4d6b-a14a-7126074a5edf)
