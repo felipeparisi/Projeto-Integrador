@@ -34,3 +34,13 @@ Segundo botão (Cad. Clientes):
 
 
 ![Captura de tela de 2023-05-16 20-15-14](https://github.com/felipeparisi/Projeto-Integrador/assets/93685167/fbfbd28a-bea2-4d6b-a14a-7126074a5edf)
+
+Terceiro botão (Criar OS):
+
+![Captura de tela de 2023-05-16 20-20-07](https://github.com/felipeparisi/Projeto-Integrador/assets/93685167/469f6849-9cec-450a-ac1e-47de854ad4d1)
+
+
+Esse botão é responsável  por criar um ordem de serviço(é um documento que formaliza o serviço a ser prestado para um cliente e serve como ponto de partida para a organização do trabalho. ) ou orçamento (é um plano que ajuda a estimar despesas, ganhos e oportunidades de investimento em um período determinado de tempo)
+
+
+![Captura de tela de 2023-05-16 20-24-00](https://github.com/felipeparisi/Projeto-Integrador/assets/93685167/e3c61171-965b-4434-aa40-04351d7cf3c4)
