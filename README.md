@@ -28,7 +28,8 @@ Segundo botão (Cad. Clientes):
 
 É responsável pelo cadastro de clientes, onde ocorre a coleta de dados do mesmo possibilitando assim o contato via telefone ou email, para atualização das ordem de serviço/orçamentos. Segue exemplo da tela a baixo:
 
-![Captura de tela de 2023-05-16 20-15-14](https://github.com/felipeparisi/Projeto-Integrador/assets/93685167/fbfbd28a-bea2-4d6b-a14a-7126074a5edf)
+![Captura de tela de 2023-05-19 19-26-39](https://github.com/felipeparisi/Projeto-Integrador/assets/93685167/5ce4d6ed-7da3-4cfe-a478-e1f5d776f1c7)
+
 
 Terceiro botão (Criar OS):
 
@@ -38,7 +39,7 @@ Terceiro botão (Criar OS):
 Esse botão é responsável por criar uma ordem de serviço(é um documento que formaliza o serviço a ser prestado para um cliente e serve como ponto de partida para a organização do trabalho. ) ou orçamento (é um plano que ajuda a estimar despesas, ganhos e oportunidades de investimento num período determinado de tempo). Segue exemplo da tela a baixo:
 
 
-![Captura de tela de 2023-05-16 20-24-00](https://github.com/felipeparisi/Projeto-Integrador/assets/93685167/e3c61171-965b-4434-aa40-04351d7cf3c4)
+![Captura de tela de 2023-05-19 19-28-09](https://github.com/felipeparisi/Projeto-Integrador/assets/93685167/1a73f00b-e61c-4030-8e9b-41815cc3e0f6)
 
 Quarto botão(Pesquisar OS):
 
@@ -46,8 +47,7 @@ Quarto botão(Pesquisar OS):
 
 Tela responsável pela pesquisa e edição da Ordem de serviço ou orçamento, é nessa tela que se torna possível um orçamento quando aprovado se transformar em uma ordem de serviço, também a mudança de Status da OS. Segue exemplo da tela a baixo:
 
-
-![Captura de tela de 2023-05-16 20-29-33](https://github.com/felipeparisi/Projeto-Integrador/assets/93685167/d473c23a-c4d1-43f0-a7f3-ee916c4434b1)
+![Captura de tela de 2023-05-19 19-28-53](https://github.com/felipeparisi/Projeto-Integrador/assets/93685167/1d6e696a-a64c-4668-8a46-69857e031688)
 
 
 Quinto Botão (relátorios):
@@ -56,8 +56,7 @@ Quinto Botão (relátorios):
 
 É nesta tela que conseguimos realizar o acompanhamento dos relatórios, como, por exemplo uma lista de clientes ou as ordens de serviço que já foram concluídas. Segue exemplo da tela a baixo:
 
-
-![Captura de tela de 2023-05-16 20-36-49](https://github.com/felipeparisi/Projeto-Integrador/assets/93685167/d95e9b5b-00e2-4205-9ecb-72c7e65076d6)
+![Captura de tela de 2023-05-19 19-29-42](https://github.com/felipeparisi/Projeto-Integrador/assets/93685167/e571379b-f687-4a2e-b18d-96bd9ac4e9d1)
 
 Sexto botão (Sobre):
 
@@ -65,4 +64,5 @@ Sexto botão (Sobre):
 
 Essa Tela possui informações sobre o desenvolvimento do projeto como a licença mit. Segue exemplo a baixo:
 
-![Captura de tela de 2023-05-16 20-39-49](https://github.com/felipeparisi/Projeto-Integrador/assets/93685167/c2be6f2c-f3ee-4a6f-93a3-2f1d94e728e0)
+![Captura de tela de 2023-05-19 19-30-29](https://github.com/felipeparisi/Projeto-Integrador/assets/93685167/8035a7d9-40bc-4448-b072-832dbdc8d9e6)
+
