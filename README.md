@@ -8,7 +8,7 @@ Responsável pelo acesso ao App e verificação se o banco de dados está conect
 
 ![Captura de tela de 2023-05-18 22-00-16](https://github.com/felipeparisi/Projeto-Integrador/assets/93685167/ae473a08-8d9d-434f-bcb4-dd1665f53713) Tela Principal:
 
-
+![Captura de tela de 2023-05-19 20-15-48](https://github.com/felipeparisi/Projeto-Integrador/assets/93685167/d88827e2-b8d5-47ae-a5af-934f0622802d)
 
 Tela responsável pelo acesso a todas as aplicações do APP:
 
