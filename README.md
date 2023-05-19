@@ -60,7 +60,7 @@ Quinto Botão (relátorios):
 
 Sexto botão (Sobre):
 
-![Captura de tela de 2023-05-16 20-39-31](https://github.com/felipeparisi/Projeto-Integrador/assets/93685167/97c5511e-1d42-466b-b0e3-37d358990f03)
+![Captura de tela de 2023-05-19 19-31-30](https://github.com/felipeparisi/Projeto-Integrador/assets/93685167/c562ebb6-d74f-4286-afef-469ad33a8ca4)
 
 Essa Tela possui informações sobre o desenvolvimento do projeto como a licença mit. Segue exemplo a baixo:
 
