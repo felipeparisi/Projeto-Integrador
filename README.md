@@ -1,7 +1,8 @@
 # Projeto-Integrador
 Projeto integrado do curso técnico do Senac tatuapé - assistência técnica de eletrodomésticos Desenvolvido um APP para gerenciar uma assistência técnica de eletrodomésticos, auxiliando no registro de clientes e na criação, acompanhamento e impressão de ordem de serviços e orçamentos.
 
-![Captura de tela de 2023-05-16 19-45-18](https://github.com/felipeparisi/Projeto-Integrador/assets/93685167/cff0b469-c496-4507-a2eb-77b9d9255894)  Tela de login:
+![Captura de tela de 2023-05-19 19-23-50](https://github.com/felipeparisi/Projeto-Integrador/assets/93685167/9cf4a984-2949-4611-ac0d-d1656f0cf31a) Tela de login:
+
 
 Responsável pelo acesso ao App e verificação se o banco de dados está conectado. Através do ícone on/off
 
